@@ -1,0 +1,5 @@
+print("hello there, my name is Eva, am an Interactive  bot ")
+name = input("What's your name? ")
+print("Hello name " + name + " " )
+age = input("How old are you " + name + "?")
+print("Hello " + name + ", I know you are " + age + " years old")
